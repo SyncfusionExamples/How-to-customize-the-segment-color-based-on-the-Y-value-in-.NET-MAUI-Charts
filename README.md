@@ -1,3 +1,5 @@
+# How to customize the segment color based on the Y value in .NET MAUI Charts(SfCartesianChart)
+
 This article explains how to set the different colors for the chart column segments based on its Y value in the [.NET MAUI charts](https://www.syncfusion.com/maui-controls/maui-charts).
 
 MAUI charts allow you to customize the appearance of the series segments color by adding the own brushes in preferred order and applying for the series [PaletteBrushes](https://help.syncfusion.com/cr/maui/Syncfusion.Maui.Charts.ChartSeries.html#Syncfusion_Maui_Charts_ChartSeries_PaletteBrushes) property.
