@@ -1,4 +1,4 @@
-# How to customize the segment color based on the Y value in .NET MAUI Charts(SfCartesianChart)
+# How to customize the segment color based on the Y value in .NET MAUI Chart (SfCartesianChart)
 
 This article explains how to set the different colors for the chart column segments based on its Y value in the [.NET MAUI charts](https://www.syncfusion.com/maui-controls/maui-charts).
 
@@ -41,7 +41,7 @@ foreach (var item in Data)
 
 ![Customized MAUI chart column series segment color based on the Y values](https://user-images.githubusercontent.com/53489303/193199814-cbaf00ec-7ceb-4b76-af37-71e593f00aae.png)
 
-KB article - [How to customize the segment color based on the Y value in MAUI Charts?]()
+KB article - [How to customize the segment color based on the Y value in MAUI Chart (SfCartesianChart)?](https://www.syncfusion.com/kb/13661/how-to-customize-the-segment-color-based-on-the-y-value-in-maui-chart-sfcartesianchart)
 
 ## See also
 
